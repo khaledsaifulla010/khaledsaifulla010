@@ -34,7 +34,5 @@ Skills: HTML/ CSS/ Tailwind CSS / Bootstrap/ JavaScript/ Rest API/ React.js/ Mon
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledsaifulla010&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/khaledsaifulla010)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=khaledsaifulla010)  
 
