@@ -19,11 +19,9 @@ Skills: HTML/ CSS/ Tailwind CSS / Bootstrap/ JavaScript/ Rest API/ React.js/ Mon
 - 🌱 I’m currently learning Recap JS, React, MongoDB 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about My Web Development Course 
-- 📫 How to reach me: khaledsaifulla010@gmail.com 
+- 📫 How to reach me: khaledsaifulla010@gmail.com //  www.linkedin.com/in/khaled-saifulla-bb66792a4 
 - 😄 Pronouns: MR. Khaled Saifulla 
 - ⚡ Fun fact: I am Extrovert! 
-
-Connect With Me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khaled010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/khaled-saifulla-bb66792a4/) 
 
