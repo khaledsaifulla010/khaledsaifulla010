@@ -42,3 +42,7 @@ Hi, I'm Khaled Saifulla, a passionate Computer Science student at the University
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khaledsaifulla010)](https://github.com/ryo-ma/github-profile-trophy)
+
+<b>Khaled Saifulla GitHub Contribution</b>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledsaifulla010&bg_color=0f0f0f&color=ede9ec&line=c10b1d&point=178240&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
