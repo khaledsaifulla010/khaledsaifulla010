@@ -1,4 +1,4 @@
-![I am Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEDwlGmAkBLZA/profile-displaybackgroundimage-shrink_350_1400/0/1705907013391?e=1719446400&v=beta&t=Lxkg3yHoOfaWxO2Dn8hpgBwExFUrz5LkdTN0q2b2NYU)
+![I am Frontend Web Developer](https://i.ibb.co.com/zm1XbQq/cover.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khaled Saifulla
 =======================================================================================================================================
